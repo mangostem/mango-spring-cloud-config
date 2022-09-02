@@ -25,4 +25,5 @@ eureka:
     lease-renewal-interval-in-seconds: 5
     # 服務失效時間，默認為90秒
     lease-expiration-duration-in-seconds: 5
-test-name: mango
+test:
+  name: mango
